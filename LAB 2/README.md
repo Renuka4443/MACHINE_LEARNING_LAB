@@ -1,2 +1,2 @@
 
-**AIM:**To learn basic tools and libraries of ML
+**AIM:** To learn basic tools and libraries of ML
