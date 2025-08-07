@@ -1,1 +1,1 @@
-**AIM:** To implement and explore Decsion Tree Classifier
+**AIM:** To implement and explore Decision Tree Classifier
