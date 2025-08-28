@@ -1,1 +1,1 @@
-**AIM:** To implement and explore Simple Linear Regression
+**AIM:** To implement and explore Multiple Simple Linear Regression
