@@ -1,1 +1,1 @@
-**AIM:**To explore and implement Logistic Regression
+**AIM:** To explore and implement Logistic Regression
