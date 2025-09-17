@@ -1,1 +1,1 @@
-**AIM:** To explore and immplement Polynomial Regression
+**AIM:** To explore and implement Polynomial Regression
